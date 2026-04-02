@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+faker
+
+# Optional for faster training: xgboost
+# xgboost
