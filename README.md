@@ -1,6 +1,6 @@
-# Anomaly Detection — Example Package
+# Anomaly Detection — 
 
-This repository is a standalone example package demonstrating anomaly (fraud) detection on transaction data. It includes a synthetic dataset, training notebooks and scripts, and a pre-trained classifier to enable quick reproduction of the training and evaluation workflow.
+This repository is a standalone  package demonstrating anomaly (fraud) detection on transaction data. It includes a synthetic dataset, training notebooks and scripts, and a pre-trained classifier to enable quick reproduction of the training and evaluation workflow.
 
 Contents
 - `anomaly-pack/`
